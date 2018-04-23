@@ -54,6 +54,6 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 _____________________________________________________________________________________________
 
 
-![Customer Portal](Images/1.png)
-![Customer Portal](Images/2.png)
-![Customer Portal](Images/3.png)
+![bamazon_storefront](Images/1.png)
+![bamazon_storefront](Images/2.png)
+![bamazon_storefront](Images/3.png)
