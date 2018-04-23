@@ -54,6 +54,6 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 _____________________________________________________________________________________________
 
 
-![alt tag](Images/1.png)
-![alt tag](Images/2.png)
-![alt tag](Images/3.png)
+![alt tag](images/1.png)
+![alt tag](images/2.png)
+![alt tag](images/3.png)
